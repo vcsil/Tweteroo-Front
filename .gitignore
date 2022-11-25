@@ -84,5 +84,8 @@ typings/
 # FuseBox cache
 .fusebox/
 
+# Wakatime
+.wakatime-project
+
 # DynamoDB Local files
 .dynamodb/
